@@ -1,4 +1,5 @@
- It is a basketball league app lets you view information about each team like roster, articles, etc. Also show you info about Players.         
+It is a basketball league app lets you view information about each team like roster, articles, etc. Also show you info about Players.   
+App: https://amazing-curie-1d73c5.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
