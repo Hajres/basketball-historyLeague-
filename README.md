@@ -1,3 +1,5 @@
+ It is a basketball league app lets you view information about each team like roster, articles, etc. Also show you info about Players.         
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
